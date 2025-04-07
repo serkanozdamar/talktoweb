@@ -1,0 +1,490 @@
+WEBVTT
+
+1
+00:00:06.050 --> 00:00:09.735
+Welcome to data science
+methodology overview.
+
+2
+00:00:09.735 --> 00:00:11.130
+After watching this video,
+
+3
+00:00:11.130 --> 00:00:13.755
+you'll be able to describe
+the term methodology,
+
+4
+00:00:13.755 --> 00:00:16.080
+relate methodology
+to data science and
+
+5
+00:00:16.080 --> 00:00:18.855
+John Rollins's contributions
+to data methodology,
+
+6
+00:00:18.855 --> 00:00:22.110
+identify the 10 stages of
+standard data methodology and
+
+7
+00:00:22.110 --> 00:00:23.340
+categorize the questions for
+
+8
+00:00:23.340 --> 00:00:25.830
+10 stages of standard
+data methodology.
+
+9
+00:00:25.830 --> 00:00:28.110
+Data science is an
+influential domain
+
+10
+00:00:28.110 --> 00:00:29.970
+that combined
+statistical analysis,
+
+11
+00:00:29.970 --> 00:00:32.850
+technological expertise,
+and domain knowledge
+
+12
+00:00:32.850 --> 00:00:35.865
+to extract valuable insights
+from extensive data sets.
+
+13
+00:00:35.865 --> 00:00:38.070
+However, despite the
+recent increase in
+
+14
+00:00:38.070 --> 00:00:40.750
+computing power and
+easier access to data,
+
+15
+00:00:40.750 --> 00:00:42.050
+we often don't understand
+
+16
+00:00:42.050 --> 00:00:43.760
+the questions being
+asked or know
+
+17
+00:00:43.760 --> 00:00:45.290
+how to apply the data correctly
+
+18
+00:00:45.290 --> 00:00:47.015
+to address the problem at hand.
+
+19
+00:00:47.015 --> 00:00:49.880
+Using a methodology helps
+resolve those issues.
+
+20
+00:00:49.880 --> 00:00:51.545
+What is a methodology?
+
+21
+00:00:51.545 --> 00:00:53.480
+A methodology is a
+system of methods
+
+22
+00:00:53.480 --> 00:00:55.650
+used in a particular
+area of study.
+
+23
+00:00:55.650 --> 00:00:58.160
+A methodology is a
+guideline for the decisions
+
+24
+00:00:58.160 --> 00:01:01.220
+researchers must make during
+the scientific process.
+
+25
+00:01:01.220 --> 00:01:02.870
+In the context of data science,
+
+26
+00:01:02.870 --> 00:01:04.550
+data science methodology is
+
+27
+00:01:04.550 --> 00:01:05.960
+a structured
+approach that guides
+
+28
+00:01:05.960 --> 00:01:07.430
+data scientists and solving
+
+29
+00:01:07.430 --> 00:01:10.280
+complex problems and making
+data-driven decisions.
+
+30
+00:01:10.280 --> 00:01:12.590
+Data science methodology
+also includes
+
+31
+00:01:12.590 --> 00:01:14.840
+data collection forms,
+measurement strategies,
+
+32
+00:01:14.840 --> 00:01:17.150
+and comparisons of
+data analysis methods
+
+33
+00:01:17.150 --> 00:01:20.180
+relative to different research
+goals and situations.
+
+34
+00:01:20.180 --> 00:01:22.010
+Using a methodology provides
+
+35
+00:01:22.010 --> 00:01:23.540
+the practical guidance needed to
+
+36
+00:01:23.540 --> 00:01:25.910
+conduct scientific
+research efficiently.
+
+37
+00:01:25.910 --> 00:01:28.100
+There's often a
+temptation to bypass
+
+38
+00:01:28.100 --> 00:01:30.440
+methodology and jump
+directly to solutions.
+
+39
+00:01:30.440 --> 00:01:32.540
+However, jumping to
+solutions hinders
+
+40
+00:01:32.540 --> 00:01:34.895
+our best intentions
+for solving problems.
+
+41
+00:01:34.895 --> 00:01:36.110
+Next, let's explore
+
+42
+00:01:36.110 --> 00:01:38.220
+methodology as it
+relates to data science.
+
+43
+00:01:38.220 --> 00:01:40.670
+The data science
+methodology discussed in
+
+44
+00:01:40.670 --> 00:01:43.670
+this course is a methodology
+outlined by John Rollins,
+
+45
+00:01:43.670 --> 00:01:46.085
+a seasoned IBM Senior
+Data Scientist.
+
+46
+00:01:46.085 --> 00:01:47.780
+This course is built
+on his professional
+
+47
+00:01:47.780 --> 00:01:49.220
+experience and insights into
+
+48
+00:01:49.220 --> 00:01:51.050
+the importance of
+following a methodology
+
+49
+00:01:51.050 --> 00:01:53.210
+for successful data
+science outcomes.
+
+50
+00:01:53.210 --> 00:01:55.055
+As a general methodology,
+
+51
+00:01:55.055 --> 00:01:56.840
+data science
+methodology consists
+
+52
+00:01:56.840 --> 00:01:58.355
+of the following 10 stages.
+
+53
+00:01:58.355 --> 00:02:00.905
+Business understanding,
+analytic approach,
+
+54
+00:02:00.905 --> 00:02:03.035
+data requirements,
+data collection,
+
+55
+00:02:03.035 --> 00:02:05.600
+data understanding,
+data preparation,
+
+56
+00:02:05.600 --> 00:02:08.420
+modeling, evaluation,
+deployment, and feedback.
+
+57
+00:02:08.420 --> 00:02:10.250
+Asking questions
+is the cornerstone
+
+58
+00:02:10.250 --> 00:02:11.735
+of success in data science.
+
+59
+00:02:11.735 --> 00:02:15.050
+Questions drive every stage
+of data science methodology.
+
+60
+00:02:15.050 --> 00:02:17.510
+Data science methodology
+aims to answer
+
+61
+00:02:17.510 --> 00:02:19.340
+the following 10
+basic questions which
+
+62
+00:02:19.340 --> 00:02:21.680
+align with the data
+methodology questions.
+
+63
+00:02:21.680 --> 00:02:23.870
+These first two questions
+help you define
+
+64
+00:02:23.870 --> 00:02:26.150
+the issue and determine
+what approach to use.
+
+65
+00:02:26.150 --> 00:02:27.500
+You'll ask, what is
+
+66
+00:02:27.500 --> 00:02:29.240
+the problem that you're
+trying to solve?
+
+67
+00:02:29.240 --> 00:02:31.850
+How can you use data to
+answer the question?
+
+68
+00:02:31.850 --> 00:02:33.620
+You'll use the next
+four questions to
+
+69
+00:02:33.620 --> 00:02:35.405
+help you get organized
+around the data.
+
+70
+00:02:35.405 --> 00:02:38.345
+You'll ask, what data do you
+need to answer the question,
+
+71
+00:02:38.345 --> 00:02:39.890
+where's the data source from,
+
+72
+00:02:39.890 --> 00:02:41.405
+and how will you
+receive the data?
+
+73
+00:02:41.405 --> 00:02:42.830
+Does the data you collect
+
+74
+00:02:42.830 --> 00:02:45.110
+represent the problem
+to be solved and
+
+75
+00:02:45.110 --> 00:02:46.940
+what additional
+work is required to
+
+76
+00:02:46.940 --> 00:02:48.950
+manipulate and work
+with the data?
+
+77
+00:02:48.950 --> 00:02:51.620
+Then you'll use these final
+four questions to validate
+
+78
+00:02:51.620 --> 00:02:54.630
+your approach and final
+design for ongoing analysis.
+
+79
+00:02:54.630 --> 00:02:57.470
+You'll ask, when you apply
+data visualizations,
+
+80
+00:02:57.470 --> 00:03:00.030
+do you see answers that
+address the business problem?
+
+81
+00:03:00.030 --> 00:03:01.490
+Does the data model answer
+
+82
+00:03:01.490 --> 00:03:02.870
+the initial business question
+
+83
+00:03:02.870 --> 00:03:04.505
+or must you adjust the data?
+
+84
+00:03:04.505 --> 00:03:06.515
+Can you put the
+model into practice?
+
+85
+00:03:06.515 --> 00:03:08.855
+Can you get constructive
+feedback from the data
+
+86
+00:03:08.855 --> 00:03:11.435
+and the stakeholder to answer
+the business question?
+
+87
+00:03:11.435 --> 00:03:14.810
+In this video, you learned
+that data science methodology
+
+88
+00:03:14.810 --> 00:03:16.280
+guides data scientists in
+
+89
+00:03:16.280 --> 00:03:18.350
+solving complex
+problems with data.
+
+90
+00:03:18.350 --> 00:03:20.150
+A methodology also includes
+
+91
+00:03:20.150 --> 00:03:22.490
+data collection forms,
+measurement strategies,
+
+92
+00:03:22.490 --> 00:03:24.965
+and comparisons of
+data analysis methods
+
+93
+00:03:24.965 --> 00:03:27.950
+relative to different research
+goals and situations.
+
+94
+00:03:27.950 --> 00:03:30.155
+As a general science
+methodology,
+
+95
+00:03:30.155 --> 00:03:33.245
+data methodology consists
+of the following 10 stages.
+
+96
+00:03:33.245 --> 00:03:35.615
+Business understanding,
+analytic approach,
+
+97
+00:03:35.615 --> 00:03:37.580
+data requirements,
+data collection,
+
+98
+00:03:37.580 --> 00:03:40.070
+data understanding,
+data preparation,
+
+99
+00:03:40.070 --> 00:03:42.620
+modeling, evaluation,
+deployment, and feedback.
+
+100
+00:03:42.620 --> 00:03:44.060
+The 10 questions aligned with
+
+101
+00:03:44.060 --> 00:03:45.440
+defining the business issue,
+
+102
+00:03:45.440 --> 00:03:47.620
+determining an approach,
+organizing your data,
+
+103
+00:03:47.620 --> 00:03:51.180
+and validating your approach
+for the final data design.

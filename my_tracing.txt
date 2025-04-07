@@ -1,0 +1,43 @@
+x = 1
+y = 1
+z = 2
+n = 3
+
+my_cuboid = []
+
+i_list = [i for i in range(x+1)]
+j_list = [j for j in range(y+1)]
+k_list = [k for k in range(z+1)]
+
+
+for i in [0,1]:
+    for j in [0,1]:
+        for k in [0,1,2]:
+            new_list = [i,j,k]
+            if sum(new_list) != n:
+                my_cuboid.append(new_list)
+print(my_cuboid)
+
+
+=====================TRACING=============================
+Time    Variable
+t0      x=1, y=1, z=2, n=3
+t1      x=1, y=1, z=2, n=3, my_cuboid=[]
+t2      x=1, y=1, z=2, n=3, my_cuboid=[], i_list = [i for i in range(2)] (0,1)
+                                            i_list = [0]
+                                            i_list = [0,1]
+t3      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [j for j in range(2)] (0,1)
+                                                          j_list = [0, 1]
+
+t4      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2]
+-------------------------------------------------------------------------------------------------
+t5      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0
+t6      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0
+t7      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0, k=0
+t8      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0, k=0, new_list=[0,0,0]
+t9      x=1, y=1, z=2, n=3, my_cuboid=[], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0, k=0, new_list=[0,0,0], sum_of_new_list=0,(sum(new_list) != n)=True
+t10     x=1, y=1, z=2, n=3, my_cuboid=[[0,0,0]], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0, k=0, new_list=[0,0,0], sum_of_new_list=0,(sum(new_list) != n)=False
+--------------------------------------------------------------------------------------------------
+t11      x=1, y=1, z=2, n=3, my_cuboid=[[0,0,0], [0,0,1], [0,0,2]], i_list=[0,1], j_list = [0,1], k_list=[0,1,2], i=0, j=0, k=1, new_list=[0,0,1]
+
+

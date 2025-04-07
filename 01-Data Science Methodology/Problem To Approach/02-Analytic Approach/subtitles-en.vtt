@@ -1,0 +1,193 @@
+WEBVTT
+
+1
+00:00:06.640 --> 00:00:14.920
+Welcome to Data Science Methodology 101 From problem to approach Analytic Approach!
+
+2
+00:00:14.920 --> 00:00:19.109
+Selecting the right analytic approach depends on the question being asked.
+
+3
+00:00:19.109 --> 00:00:23.850
+The approach involves seeking clarification from the person who is asking the question,
+
+4
+00:00:23.850 --> 00:00:27.849
+so as to be able to pick the most appropriate path or approach.
+
+5
+00:00:27.849 --> 00:00:33.800
+In this video we'll see how the second stage of the data science methodology is applied.
+
+6
+00:00:33.800 --> 00:00:38.010
+Once the problem to be addressed is defined, the appropriate analytic approach for the
+
+7
+00:00:38.010 --> 00:00:42.239
+problem is selected in the context of the business requirements.
+
+8
+00:00:42.239 --> 00:00:46.590
+This is the second stage of the data science methodology.
+
+9
+00:00:46.590 --> 00:00:50.770
+Once a strong understanding of the question is established, the analytic approach can
+
+10
+00:00:50.770 --> 00:00:52.190
+be selected.
+
+11
+00:00:52.190 --> 00:00:56.489
+This means identifying what type of patterns will be needed to address the question most
+
+12
+00:00:56.489 --> 00:00:58.420
+effectively.
+
+13
+00:00:58.420 --> 00:01:02.350
+If the question is to determine probabilities of an action, then a predictive model might
+
+14
+00:01:02.350 --> 00:01:04.010
+be used.
+
+15
+00:01:04.010 --> 00:01:08.890
+If the question is to show relationships, a descriptive approach maybe be required.
+
+16
+00:01:08.890 --> 00:01:13.610
+This would be one that would look at clusters of similar activities based on events and
+
+17
+00:01:13.610 --> 00:01:14.610
+preferences.
+
+18
+00:01:14.610 --> 00:01:18.500
+Statistical analysis applies to problems that require counts.
+
+19
+00:01:18.500 --> 00:01:23.390
+For example if the question requires a yes/ no answer, then a classification approach
+
+20
+00:01:23.390 --> 00:01:27.060
+to predicting a response would be suitable.
+
+21
+00:01:27.060 --> 00:01:31.329
+Machine Learning is a field of study that gives computers the ability to learn without
+
+22
+00:01:31.329 --> 00:01:33.729
+being explicitly programmed.
+
+23
+00:01:33.729 --> 00:01:38.920
+Machine Learning can be used to identify relationships and trends in data that might otherwise not
+
+24
+00:01:38.920 --> 00:01:41.970
+be accessible or identified.
+
+25
+00:01:41.970 --> 00:01:45.799
+In the case where the question is to learn about human behaviour, then an appropriate
+
+26
+00:01:45.799 --> 00:01:49.530
+response would be to use Clustering Association approaches.
+
+27
+00:01:49.530 --> 00:01:56.020
+So now, let's look at the case study related to applying Analytic Approach.
+
+28
+00:01:56.020 --> 00:02:00.990
+For the case study, a decision tree classification model was used to identify the combination
+
+29
+00:02:00.990 --> 00:02:04.520
+of conditions leading to each patient's outcome.
+
+30
+00:02:04.520 --> 00:02:09.320
+In this approach, examining the variables in each of the nodes along each path to a
+
+31
+00:02:09.320 --> 00:02:13.340
+leaf, led to a respective threshold value.
+
+32
+00:02:13.340 --> 00:02:18.150
+This means the decision tree classifier provides both the predicted outcome, as well as the
+
+33
+00:02:18.150 --> 00:02:23.510
+likelihood of that outcome, based on the proportion at the dominant outcome, yes or no, in each
+
+34
+00:02:23.510 --> 00:02:25.379
+group.
+
+35
+00:02:25.379 --> 00:02:29.959
+From this information, the analysts can obtain the readmission risk, or the likelihood of
+
+36
+00:02:29.959 --> 00:02:35.060
+a yes for each patient. If the dominant outcome is yes, then the risk
+
+37
+00:02:35.060 --> 00:02:38.790
+is simply the proportion of yes patients in the leaf.
+
+38
+00:02:38.790 --> 00:02:44.810
+If it is no, then the risk is 1 minus the proportion of no patients in the leaf.
+
+39
+00:02:44.810 --> 00:02:49.709
+A decision tree classification model is easy for non-data scientists to understand and
+
+40
+00:02:49.709 --> 00:02:53.970
+apply, to score new patients for their risk of readmission.
+
+41
+00:02:53.970 --> 00:02:58.560
+Clinicians can readily see what conditions are causing a patient to be scored as high-risk
+
+42
+00:02:58.560 --> 00:03:04.440
+and multiple models can be built and applied at various points during hospital stay.
+
+43
+00:03:04.440 --> 00:03:08.550
+This gives a moving picture of the patient's risk and how it is evolving with the various
+
+44
+00:03:08.550 --> 00:03:13.280
+treatments being applied. For these reasons, the decision tree classification
+
+45
+00:03:13.280 --> 00:03:18.830
+approach was chosen for building the Congestive Heart Failure readmission model.
+
+46
+00:03:18.830 --> 00:03:22.300
+This ends the Analytic Approach section for this course.
+
+47
+00:03:22.300 --> 00:03:23.100
+Thanks for watching!
+
+48
+00:03:23.100 --> 00:03:28.169
+(music)

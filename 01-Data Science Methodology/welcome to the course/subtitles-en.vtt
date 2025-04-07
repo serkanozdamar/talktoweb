@@ -1,0 +1,224 @@
+WEBVTT
+
+1
+00:00:07.370 --> 00:00:11.290
+Welcome to the course for an Introduction
+for Data Science Methodology.
+
+2
+00:00:11.290 --> 00:00:14.792
+This is the beginning of a story
+you'll tell others about for years.
+
+3
+00:00:14.792 --> 00:00:17.312
+Your story won't be in
+the form you experience here.
+
+4
+00:00:17.312 --> 00:00:21.222
+But rather through the stories you'll be
+sharing with others as you explain how
+
+5
+00:00:21.222 --> 00:00:25.363
+your understanding of a question resulted
+in an answer that changed house something
+
+6
+00:00:25.363 --> 00:00:25.902
+was done.
+
+7
+00:00:25.902 --> 00:00:30.642
+During this course, you'll gain indepth
+insights into data science methodologies.
+
+8
+00:00:30.642 --> 00:00:34.707
+After you complete this course, you'll be
+able to describe how data scientists apply
+
+9
+00:00:34.707 --> 00:00:37.260
+structured approach to
+solve business problems.
+
+10
+00:00:37.260 --> 00:00:41.569
+And you'll be ready to start creating your
+own data science methodology stories.
+
+11
+00:00:41.569 --> 00:00:45.849
+You'll master the basics of foundational
+data science methodology through
+
+12
+00:00:45.849 --> 00:00:49.930
+instructional videos that incorporate
+a real life case study readings,
+
+13
+00:00:49.930 --> 00:00:53.108
+interactive hands-on labs and
+practice assessments.
+
+14
+00:00:53.108 --> 00:00:56.214
+Where you can practice your skills,
+downloadable glossaries for
+
+15
+00:00:56.214 --> 00:00:59.385
+your reference, and graded assessments
+at the end of each lesson.
+
+16
+00:00:59.385 --> 00:01:02.686
+And the end of the course where
+you can validate your knowledge.
+
+17
+00:01:02.686 --> 00:01:05.442
+Let's take a more detailed
+view of the course content.
+
+18
+00:01:05.442 --> 00:01:07.400
+In each lesson within each module,
+
+19
+00:01:07.400 --> 00:01:11.406
+you'll explore two foundational
+data science methodology stages.
+
+20
+00:01:11.406 --> 00:01:16.041
+In Module 1, Lesson 1, you'll explore
+the stages, business understanding and
+
+21
+00:01:16.041 --> 00:01:17.422
+analytics approach.
+
+22
+00:01:17.422 --> 00:01:21.433
+In Module 1, Lesson 2, you discover
+data scientists work during the data
+
+23
+00:01:21.433 --> 00:01:23.906
+requirements and data collection stages.
+
+24
+00:01:23.906 --> 00:01:27.834
+In Module 2, Lesson 1, you'll examine
+the work that happens during the data
+
+25
+00:01:27.834 --> 00:01:30.290
+understanding and data preparation stages.
+
+26
+00:01:30.290 --> 00:01:34.822
+Next, in Module 2, Lesson 2, you'll study
+the modeling and evaluation stages.
+
+27
+00:01:34.822 --> 00:01:38.966
+And finally, in module three, you'll focus
+on the deployment and feedback stages.
+
+28
+00:01:38.966 --> 00:01:43.150
+The case study in the course highlights
+how to apply data science methodology in
+
+29
+00:01:43.150 --> 00:01:45.093
+the following real world scenario.
+
+30
+00:01:45.093 --> 00:01:49.509
+A healthcare facility has a limited budget
+to properly address a patient's condition
+
+31
+00:01:49.509 --> 00:01:51.402
+before their initial discharge.
+
+32
+00:01:51.402 --> 00:01:55.902
+The core question is what is the best way
+to allocate these funds to maximize their
+
+33
+00:01:55.902 --> 00:01:57.720
+use to provide quality care?
+
+34
+00:01:57.720 --> 00:02:01.574
+As you'll see, if the new data
+science pilot program is successful,
+
+35
+00:02:01.574 --> 00:02:05.952
+the facility will deliver better patient
+care by giving physicians new tools to
+
+36
+00:02:05.952 --> 00:02:10.306
+incorporate timely data driven
+information into patient care decisions.
+
+37
+00:02:10.306 --> 00:02:14.716
+When viewing case study information, use
+the icons displayed at the top right hand
+
+38
+00:02:14.716 --> 00:02:18.507
+corner of your screen to help you
+differentiate theory from practice.
+
+39
+00:02:18.507 --> 00:02:22.909
+While participating in the course, if you
+encounter challenges or have questions.
+
+40
+00:02:22.909 --> 00:02:24.157
+You can find support and
+
+41
+00:02:24.157 --> 00:02:28.450
+answers and connect with other learners
+in the course's discussion forums.
+
+42
+00:02:28.450 --> 00:02:32.226
+You're ready for this course if have
+basic data science knowledge and
+
+43
+00:02:32.226 --> 00:02:34.538
+you know how to use Jupyter Notebooks.
+
+44
+00:02:34.538 --> 00:02:36.157
+And now, welcome to the course.
+
+45
+00:02:36.157 --> 00:02:40.251
+We look forward to you completing this
+course, earning a valuable certificate,
+
+46
+00:02:40.251 --> 00:02:42.820
+and continuing your path
+to a data science career.
+
+47
+00:02:42.820 --> 00:02:43.320
+[MUSIC]

@@ -1,0 +1,289 @@
+WEBVTT
+
+1
+00:00:06.680 --> 00:00:15.619
+Welcome to Data Science Methodology 101 From Problem to Approach Business Understanding!
+
+2
+00:00:15.619 --> 00:00:17.160
+Has this ever happened to you?
+
+3
+00:00:17.160 --> 00:00:21.279
+You've been called into a meeting by your boss, who makes you aware of an important
+
+4
+00:00:21.279 --> 00:00:26.610
+task one with a very tight deadline that absolutely has to be met.
+
+5
+00:00:26.610 --> 00:00:31.130
+You both go back and forth to ensure that all aspects of the task have been considered
+
+6
+00:00:31.130 --> 00:00:35.640
+and the meeting ends with both of you confident that things are on track.
+
+7
+00:00:35.640 --> 00:00:40.660
+Later that afternoon, however, after you've spent some time examining the various issues
+
+8
+00:00:40.660 --> 00:00:45.120
+at play, you realize that you need to ask several additional questions in order to truly
+
+9
+00:00:45.120 --> 00:00:47.010
+accomplish the task.
+
+10
+00:00:47.010 --> 00:00:51.290
+Unfortunately, the boss won't be available again until tomorrow morning.
+
+11
+00:00:51.290 --> 00:00:56.040
+Now, with the tight deadline still ringing in your ears, you start feeling a sense of
+
+12
+00:00:56.040 --> 00:00:57.040
+uneasiness.
+
+13
+00:00:57.040 --> 00:00:58.201
+So, what do you do?
+
+14
+00:00:58.201 --> 00:01:04.519
+Do you risk moving forward or do you stop and seek clarification.
+
+15
+00:01:04.519 --> 00:01:09.219
+Data science methodology begins with spending the time to seek clarification, to attain
+
+16
+00:01:09.219 --> 00:01:13.520
+what can be referred to as a business understanding.
+
+17
+00:01:13.520 --> 00:01:17.600
+Having this understanding is placed at the beginning of the methodology because getting
+
+18
+00:01:17.600 --> 00:01:22.840
+clarity around the problem to be solved, allows you to determine which data will be used to
+
+19
+00:01:22.840 --> 00:01:25.290
+answer the core question.
+
+20
+00:01:25.290 --> 00:01:30.620
+Rollins suggests that having a clearly defined question is vital because it ultimately directs
+
+21
+00:01:30.620 --> 00:01:34.710
+the analytic approach that will be needed to address the question.
+
+22
+00:01:34.710 --> 00:01:40.000
+All too often, much effort is put into answering what people THINK is the question, and while
+
+23
+00:01:40.000 --> 00:01:44.900
+the methods used to address that question might be sound, they don't help to solve
+
+24
+00:01:44.900 --> 00:01:48.060
+the actual problem.
+
+25
+00:01:48.060 --> 00:01:53.040
+Establishing a clearly defined question starts with understanding the GOAL of the person
+
+26
+00:01:53.040 --> 00:01:55.310
+who is asking the question.
+
+27
+00:01:55.310 --> 00:02:01.290
+For example, if a business owner asks: "How can we reduce the costs of performing an activity?"
+
+28
+00:02:01.290 --> 00:02:05.700
+We need to understand, is the goal to improve the efficiency of the activity?
+
+29
+00:02:05.700 --> 00:02:09.890
+Or is it to increase the businesses profitability?
+
+30
+00:02:09.890 --> 00:02:14.280
+Once the goal is clarified, the next piece of the puzzle is to figure out the objectives
+
+31
+00:02:14.280 --> 00:02:17.150
+that are in support of the goal.
+
+32
+00:02:17.150 --> 00:02:21.530
+By breaking down the objectives, structured discussions can take place where priorities
+
+33
+00:02:21.530 --> 00:02:27.370
+can be identified in a way that can lead to organizing and planning on how to tackle the
+
+34
+00:02:27.370 --> 00:02:28.519
+problem.
+
+35
+00:02:28.519 --> 00:02:32.409
+Depending on the problem, different stakeholders will need to be engaged in the discussion
+
+36
+00:02:32.409 --> 00:02:35.970
+to help determine requirements and clarify questions.
+
+37
+00:02:35.970 --> 00:02:43.290
+So now, let's look at the case study related to applying "Business Understanding"
+
+38
+00:02:43.290 --> 00:02:48.319
+In the case study, the question being asked is: What is the best way to allocate the limited
+
+39
+00:02:48.319 --> 00:02:53.680
+healthcare budget to maximize its use in providing quality care?
+
+40
+00:02:53.680 --> 00:02:58.700
+This question is one that became a hot topic for an American healthcare insurance provider.
+
+41
+00:02:58.700 --> 00:03:03.870
+As public funding for readmissions was decreasing, this insurance company was at risk of having
+
+42
+00:03:03.870 --> 00:03:09.650
+to make up for the cost difference,which could potentially increase rates for its customers.
+
+43
+00:03:09.650 --> 00:03:14.419
+Knowing that raising insurance rates was not going to be a popular move, the insurance
+
+44
+00:03:14.419 --> 00:03:20.159
+company sat down with the health care authorities in its region and brought in IBM data scientists
+
+45
+00:03:20.159 --> 00:03:25.890
+to see how data science could be applied to the question at hand.
+
+46
+00:03:25.890 --> 00:03:31.170
+Before even starting to collect data, the goals and objectives needed to be defined.
+
+47
+00:03:31.170 --> 00:03:36.029
+After spending time to determine the goals and objectives, the team prioritized "patient
+
+48
+00:03:36.029 --> 00:03:39.940
+readmissions" as an effective area for review.
+
+49
+00:03:39.940 --> 00:03:44.390
+With the goals and objectives in mind, it was found that approximately 30% of individuals
+
+50
+00:03:44.390 --> 00:03:49.730
+who finish rehab treatment would be readmitted to a rehab center within one year; and that
+
+51
+00:03:49.730 --> 00:03:53.349
+50% would be readmitted within five years.
+
+52
+00:03:53.349 --> 00:03:57.839
+After reviewing some records, it was discovered that the patients with congestive heart failure
+
+53
+00:03:57.839 --> 00:04:00.700
+were at the top of the readmission list.
+
+54
+00:04:00.700 --> 00:04:05.639
+It was further determined that a decision-tree model could be applied to review this scenario,
+
+55
+00:04:05.639 --> 00:04:08.749
+to determine why this was occurring.
+
+56
+00:04:08.749 --> 00:04:13.209
+To gain the business understanding that would guide the analytics team in formulating and
+
+57
+00:04:13.209 --> 00:04:18.829
+performing their first project, the IBM Data scientists, proposed and delivered an on-site
+
+58
+00:04:18.829 --> 00:04:22.410
+workshop to kick things off.
+
+59
+00:04:22.410 --> 00:04:26.960
+The key business sponsors involvement throughout the project was critical, in that the sponsor:
+
+60
+00:04:26.960 --> 00:04:28.960
+Set overall direction
+
+61
+00:04:28.960 --> 00:04:31.660
+Remained engaged and provided guidance.
+
+62
+00:04:31.660 --> 00:04:35.440
+Ensured necessary support, where needed.
+
+63
+00:04:35.440 --> 00:04:39.800
+Finally, four business requirements were identified for whatever model would be built.
+
+64
+00:04:39.800 --> 00:04:40.800
+Namely:
+
+65
+00:04:40.810 --> 00:04:44.590
+Predicting readmission outcomes for those patients with Congestive Heart Failure
+
+66
+00:04:44.590 --> 00:04:47.760
+Predicting readmission risk.
+
+67
+00:04:47.760 --> 00:04:51.100
+Understanding the combination of events that led to the predicted outcome
+
+68
+00:04:51.110 --> 00:04:56.120
+Applying an easy-to-understand process to new patients, regarding their readmission
+
+69
+00:04:56.120 --> 00:04:57.620
+risk.
+
+70
+00:04:57.620 --> 00:05:00.870
+This ends the Business Understanding section of this course.
+
+71
+00:05:00.870 --> 00:05:01.830
+Thanks for watching!
+
+72
+00:05:01.830 --> 00:05:07.169
+(music)

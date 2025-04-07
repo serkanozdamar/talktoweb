@@ -1,0 +1,36 @@
+Welcome to the course for an Introduction
+for Data Science Methodology. This is the beginning of a story
+you'll tell others about for years. Your story won't be in
+the form you experience here. But rather through the stories you'll be
+sharing with others as you explain how your understanding of a question resulted
+in an answer that changed house something was done. During this course, you'll gain indepth
+insights into data science methodologies. After you complete this course, you'll be
+able to describe how data scientists apply structured approach to
+solve business problems. And you'll be ready to start creating your
+own data science methodology stories. You'll master the basics of foundational
+data science methodology through instructional videos that incorporate
+a real life case study readings, interactive hands-on labs and
+practice assessments. Where you can practice your skills,
+downloadable glossaries for your reference, and graded assessments
+at the end of each lesson. And the end of the course where
+you can validate your knowledge. Let's take a more detailed
+view of the course content. In each lesson within each module, you'll explore two foundational
+data science methodology stages. In Module 1, Lesson 1, you'll explore
+the stages, business understanding and analytics approach. In Module 1, Lesson 2, you discover
+data scientists work during the data requirements and data collection stages. In Module 2, Lesson 1, you'll examine
+the work that happens during the data understanding and data preparation stages. Next, in Module 2, Lesson 2, you'll study
+the modeling and evaluation stages. And finally, in module three, you'll focus
+on the deployment and feedback stages. The case study in the course highlights
+how to apply data science methodology in the following real world scenario. A healthcare facility has a limited budget
+to properly address a patient's condition before their initial discharge. The core question is what is the best way
+to allocate these funds to maximize their use to provide quality care? As you'll see, if the new data
+science pilot program is successful, the facility will deliver better patient
+care by giving physicians new tools to incorporate timely data driven
+information into patient care decisions. When viewing case study information, use
+the icons displayed at the top right hand corner of your screen to help you
+differentiate theory from practice. While participating in the course, if you
+encounter challenges or have questions. You can find support and answers and connect with other learners
+in the course's discussion forums. You're ready for this course if have
+basic data science knowledge and you know how to use Jupyter Notebooks. And now, welcome to the course. We look forward to you completing this
+course, earning a valuable certificate, and continuing your path
+to a data science career. [MUSIC]

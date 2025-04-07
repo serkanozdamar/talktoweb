@@ -1,0 +1,20 @@
+Hello and welcome to this course on Machine Learning with Python, Where you will learn about applied machine learning using Python tools. Python dominates the machine learning landscape today. According to recent surveys, it is the most widely used language for machine learning, data science, and analytics. Libraries, such as scikit-Learn, are especially
+popular with practitioners in this field. Whether you're starting your career or enhancing your skills,
+this intermediate-level course will provide you with a solid foundation in applied
+machine learning, paving the way for advanced career opportunities in the field of
+machine learning, data science, and AI. To gain maximum learning from this course, a
+working knowledge of Python, Pandas, NumPy, and data preparation and data analysis with Python is recommended. Familiarity with the field of machine learning will be an added advantage. In this course, you will become aware of the
+role of machine learning in various career paths. You will gain a foundational knowledge of the
+machine learning lifecycle and how machine learning models work. Throughout the course, you will focus on machine learning
+modeling techniques such as classification, regression, and clustering. Using real-world data, you will learn how these
+models fit within the broader supervised and unsupervised learning frameworks. You'll also get a brief introduction to advanced
+methods such as reinforcement learning, deep learning, and the world of artificial intelligence. You will gain hands-on experience with building,
+assessing, and validating various classification, regression, and clustering machine learning models
+using Python and popular open-source libraries such as Pandas, NumPy, and Scikit-Learn. You will gain a comprehensive understanding of
+machine learning using Python through instructional videos and then practice the concepts learned in hands-on labs. You will assess your learning with practice and
+graded quizzes and strengthen the mastery of concepts with reference materials such as a glossary. A concluding final project in the last module
+will provide you with the opportunity to apply your knowledge. Each lesson has one or more labs that reinforce
+the instructional videos by applying what you've learned in each lesson. Our topics include Multiple Linear Regression
+and Logistic Regression, Prediction, Fraud Detection, KNN, and SVM. We're glad to have you with us as you start
+your journey in machine learning with Python. If you have any queries regarding the course material,
+please don't hesitate to contact us in the discussion forum. All the best!
